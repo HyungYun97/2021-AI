@@ -82,3 +82,6 @@ while True:
 
 
     cv2.imshow("VideoFrame", frame)
+
+    # Practice
+    
