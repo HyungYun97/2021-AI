@@ -53,3 +53,5 @@ data[0] = normalized_image_array
 prediction = model.predict(data)
 
 print(prediction)
+
+# 시범운용 
