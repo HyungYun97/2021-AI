@@ -65,5 +65,4 @@ while True:
         print('error')
         cv2.putText(frame, 'error', (0, 25), cv2.FONT_HERSHEY_PLAIN, 1, (0, 255, 0))
 
-
     cv2.imshow("CCTV", frame)
