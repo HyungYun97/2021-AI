@@ -59,7 +59,6 @@ while True:
          print('roadperson')
 
 
- 
 
     else:
         print('error')
